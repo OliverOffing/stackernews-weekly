@@ -1,4 +1,4 @@
-name: hackernews-weekly-top
+name: stackernews-weekly-top
 
 on:
   workflow_dispatch:
