@@ -1,0 +1,12 @@
+{
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "@octokit/auth-app": "^6.0.4",
+    "@octokit/core": "^6.0.1",
+    "axios": "^1.6.7",
+    "dayjs": "^1.11.10",
+    "jsdom": "^24.0.0",
+    "timeago.js": "^4.0.2"
+  }
+}
